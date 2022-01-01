@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Poppins:wght@400;600;800&display=swap');
+
+body {
+  margin: 0;
+}
+.main-body-img {
+  background-image: url("../img/body-1.jpg");
+  background-position: center;
+  background-size: cover;
+  /* background-attachment: fixed; */
+  background-repeat: no-repeat;
+  height: 600px;
+}
+
+.container {
+  /* margin: 0 14%; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 2%;
+}
+
+/* .container-second-img{
+    background-image: url('../img/tracts.jpg');
+    overflow: visible;
+} */
+
+.border-bottom {
+  border-bottom: 10px solid skyblue;
+  width: 120px;
+  color: skyblue;
+}
+
+img {
+  width: 1000px;
+}
+
+.title {
+  font-weight: lighter;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(80, 79, 79);
+}
+
+.para {
+    /* font-family: Bangers; */
+    font-size: 35px;
+    color: #244668;
+  /* background-image: url('../img/font.png'); */
+  letter-spacing: -2px;
+  margin-top: 0;
+  font-weight: lighter;
+  font-style: italic;
+  font-family: 'Carter One', cursive;
+}
+
+.container-second-img{
+    margin-top: 50px;
+}
+
+.btn{
+    padding: 15px 70px;
+    border: 1px solid rgb(74, 162, 197);
+    text-decoration: none;
+    background-color: #579add;
+    color: white;
+    border-radius: 6px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container-second-btn{
+    margin-top: 18px;
+    margin-bottom: 60px;
+}
+
+.sec-categories{
+    background-color: rgb(240, 239, 239);
+}
+
+.third-title{
+    margin-top: 50px;
+}
+
+.categories-border{
+    margin-bottom: 50px;
+}
+.cards-categories{
+    display: flex;
+    margin-bottom: 40px;
+}
+.card-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid lightgray;
+    width: 280px;
+    height: 310px;
+    background-repeat: no-repeat;
+    background-color: white;
+    margin: 8px;
+    border-radius: 4px;
+}
+
+.cards-title{
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(80, 79, 79);
+}
+.cards-img{
+    font-weight: 400;
+    width: 200px;
+    height: 200px;
+}
+
+.featured-cards{
+    width: 350px;
+    height: 600px;
+    background-color: #244668;
+}
+
+.articles-cards-title{
+
+}
+
+.articles-img{
+    width: 350px;
+}
