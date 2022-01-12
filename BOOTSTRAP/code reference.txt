@@ -1,0 +1,32 @@
+<div class=" mx-5 p-3 rounded-lg  mt-5">
+      <h1
+        class="mt-5 py-2 fw-bold display-5 rounded-lg"
+      >
+        Welcome to the Masterclass
+      </h1>
+      <p class="text-capitalize fs-5 fw-light">
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur
+        obcaecati aliquid voluptatum laudantium, consequatur et deleniti
+        adipisci dignissimos commodi quam sint deserunt corporis, explicabo
+        nesciunt ea dicta incidunt ex natus odit magni eveniet pariatur Lorem
+        ipsum dolor sit amet consectetur, adipisicing elit. Ut fugiat voluptate
+        ab expedita officiis tenetur, suscipit amet autem cumque ullam. ?
+      </p>
+      <a href="" class="btn btn-danger">Know More</a>
+      <a href="" class="btn btn-outline-success">Second Link</a>
+    </div>
+
+    <div class="col-sm-6">
+          <div class="bg-primary text-light p-3 rounded-lg mt-5">
+            <h1 class="mt-5 py-2 fw-bold display-5 rounded-lg">
+              Welcome to the Masterclass
+            </h1>
+            <p class="text-capitalize fs-5 fw-light">
+              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur
+              obcaecati aliquid voluptatum laudantium, consequatur et deleniti
+              adipisci dignissimos commodi quam sint deserunt corporis,
+              explicabo nesciunt ea dicta incidunt ex natus Lorem ipsum dolor sit amet, consectetur adipisicing elit?
+            </p>
+            <a href="" class="btn btn-light">Know More</a>
+          </div>
+        </div>
