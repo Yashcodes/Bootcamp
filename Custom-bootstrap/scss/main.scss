@@ -1,0 +1,23 @@
+$card-border-radius: 12px;
+$btn-border-radius: 144px;
+
+.banner{
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+}
+
+$theme-colors: (
+  "primary":    blueviolet,
+  "secondary":  #ffc107,
+  "success":    rgb(112, 226, 112),
+  "info":       rgb(64, 174, 218),
+  "warning":    rgb(182, 182, 11),
+  "danger":     rgb(233, 31, 31),
+  "light":      rgb(199, 184, 184),
+  "dark":       rgb(0, 0, 0)
+);
+
+
+@import '../node_modules/bootstrap/scss/bootstrap.scss'
+
