@@ -268,3 +268,25 @@ section {
   font-size: 14px;
   font-weight: 400;
 }
+
+.bg-dark{
+  background-color: #000;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.navbar{
+  margin: 0 6%;
+  padding: 20px 0;
+}
+
+.navbar-link{
+  color: white;
+  text-decoration: none;
+}
+
+.navbar-brand{
+  font-size: 22px;
+  font-weight: 600;
+  letter-spacing: -1px;
+}
